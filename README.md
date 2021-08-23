@@ -6,7 +6,7 @@
 
 # Additional description about the project and its features.
 
-Performing code review for the Microverse trial project for qualification and entry into microverse. 
+Microverse trial project for qualification and entry into microverse. 
 
 ## Built With
 
